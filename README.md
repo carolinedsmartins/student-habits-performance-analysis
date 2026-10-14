@@ -68,6 +68,9 @@ Além da parte técnica, a análise contribuiu para desenvolver a interpretaçã
 
 A análise é exploratória e identifica associações entre variáveis, sem demonstrar relações de causa e efeito. As conclusões também dependem das características da base de dados utilizada.
 
+## Referência
+Projeto desenvolvido com base no conteúdo educacional do canal Eficiência Programada, no YouTube.
+
 ## Como executar o projeto
 
 1. Baixe ou clone este repositório.
